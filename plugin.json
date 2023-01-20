@@ -1,0 +1,9 @@
+{
+    "preload":"main.js",
+	"logo": "logo.png",
+	"features": [{
+		"code": "run",
+		"explain": "截图提取文字",
+		"cmds": ["截图提取文字"]
+	}]
+}
